@@ -1,0 +1,47 @@
+commit e9bcb9caaf4f562aaf0bae9a4cb61ab13491e27f
+Merge: 9ae5059 0709789
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 09:01:52 2024 -0700
+
+    Merge pull request #2 from Saminja/develop
+    
+    added img link
+
+commit 07097899a73dc08e5d4ce97be44c2a4650a6ad88
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 09:00:21 2024 -0700
+
+    added img link
+
+commit 9ae5059b6150f4e27eb10b35dacb6440d6ec3be9
+Merge: 695beb6 e5b0b58
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 08:54:01 2024 -0700
+
+    Merge pull request #1 from Saminja/feature/demo
+    
+    Feature/demo Host Review
+
+commit e5b0b58dd5140d2de49a5c17f1b9c95f3ea9a8fd
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 08:37:13 2024 -0700
+
+    added color to H1 in CSS, and font family to the Head of html
+
+commit c68d43c34856a5efa2cc82d5c8ced2f7e3bbcdfd
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 08:27:21 2024 -0700
+
+    altered HTML, CSS in develop branch
+
+commit 695beb6e692f08980c66f5571ea753889ad3ace0
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 08:22:11 2024 -0700
+
+    added .gitignore, HTML, CSS, and the test blah files.
+
+commit 5f3a511597ae55fbbeabafadd474d126c1da5693
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 08:11:43 2024 -0700
+
+    Initial commit
