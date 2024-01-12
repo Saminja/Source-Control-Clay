@@ -1,3 +1,49 @@
+commit 87da29edca59c254d05949c87e64f85e161998d0
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Fri Jan 12 08:14:53 2024 -0700
+
+    fixed style sheet notation
+
+commit 2affa37fd1b7aac290b936a4300f93ed13aba5ee
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Fri Jan 12 08:10:16 2024 -0700
+
+    deleted repo
+    :q
+    q
+    :q
+    git add .
+
+commit d9463822db9c926d3c6bfc95617cf43f1a413f53
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 10:26:47 2024 -0700
+
+    fixed pic with vlad
+
+commit b8dcf3c58e2f5e26fe323414439942068d94ef0d
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 10:19:38 2024 -0700
+
+    pic added really
+
+commit 7e47c14c9ed3a888994262b57aa438611e1d339e
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 10:12:00 2024 -0700
+
+    pic addded
+
+commit e94a7c40ae340be8585fe87d7e366416d29d0303
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 10:09:53 2024 -0700
+
+    added picture finally
+
+commit 5aee705f96f109dc9cee1f8b65a07d943b2cc705
+Author: Saminja <150490032+Saminja@users.noreply.github.com>
+Date:   Thu Jan 11 09:34:53 2024 -0700
+
+    Fixed HTML/CSS files, less altering but more learing haha
+
 commit e9bcb9caaf4f562aaf0bae9a4cb61ab13491e27f
 Merge: 9ae5059 0709789
 Author: Saminja <150490032+Saminja@users.noreply.github.com>
